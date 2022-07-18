@@ -1,4 +1,4 @@
-### Hi there I am Simeng (Simon) He! I am 4th year UW CS and am looking for Fall 2022 SWE Internships! 👋
+### Hi there I am Simeng (Simon) He! I am a 4th year UW CS and am looking for Fall 2022 SWE Internships! 👋
 My strengths are in backend + fullstack! 
 
 <!--
