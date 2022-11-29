@@ -1,5 +1,4 @@
-### Hi there I am Simeng (Simon) He! I am a 4th year UW CS and am looking for Fall 2022 SWE Internships! 👋
-My strengths are in backend + fullstack! 
+### Hi there I am Simeng (Simon) He! I am a 4th year UW CS Student
 
 <!--
 **simenghe/simenghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
