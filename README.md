@@ -1,4 +1,4 @@
-### Hi there I am Simeng (Simon) He! I am a final year UW CS Student currently seeking New Grad 2024 Jobs!
+### Hi there I am Simeng (Simon) He! UW CS GRAD NOW :)
 
 <!--
 **simenghe/simenghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
